@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="pandasdate",
-    version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="1.0.2",
+    author="Eshan Jayasundara",
+    author_email="jmeshangj@gmail.com",
     description="A pandas DataFrame extension with date tracking",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

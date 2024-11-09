@@ -3,6 +3,8 @@
 *.xlsx
 *.pickle
 *.ipynb
+*.pypirc
+.pypirc
 data/
 
 # Byte-compiled / optimized / DLL files
