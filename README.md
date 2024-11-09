@@ -1,5 +1,17 @@
 ### `pandasdate` - Version 1.0.2
 
+# My Project
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/EshanJayasundara/pandasdate)
+![GitHub Repo stars](https://img.shields.io/github/stars/EshanJayasundara/pandasdate?style=social)
+![GitHub license](https://img.shields.io/github/license/EshanJayasundara/pandasdate)
+![GitHub contributors](https://img.shields.io/github/contributors/EshanJayasundara/pandasdate)
+
+## Description
+This project is designed to...
+
+
+
 This package, `pandasdate`, is a custom wrapper around `pandas.DataFrame` that introduces a date attribute to track a specified date associated with the dataset. The `DataFrame` subclass is designed to work seamlessly with common data formats while preserving metadata about the date, making it particularly useful for applications that require associating data with a specific timestamp.
 
 Access git-repository via: https://github.com/EshanJayasundara/pandasdate
