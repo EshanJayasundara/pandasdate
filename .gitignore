@@ -1,8 +1,8 @@
-.parquet
-.csv
-.xlsx
-.pickle
-.ipynb
+*.parquet
+*.csv
+*.xlsx
+*.pickle
+*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
