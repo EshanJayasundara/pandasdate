@@ -7,7 +7,7 @@
 
 This package, `pandasdate`, is a custom wrapper around `pandas.DataFrame` that introduces a date attribute to track a specified date associated with the dataset. The `DataFrame` subclass is designed to work seamlessly with common data formats while preserving metadata about the date, making it particularly useful for applications that require associating data with a specific timestamp.
 
-Access git-repository via: https://github.com/EshanJayasundara/pandasdate
+Access via: [PyPI](https://pypi.org/project/pandasdate/)
 
 #### Key Features
 
